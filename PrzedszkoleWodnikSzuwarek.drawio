@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2023-09-12T08:40:48.251Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" version="21.7.2" etag="Q6FPDHxUuIqQfPZA55b3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-12T08:50:47.237Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="afZjj-MYcCIjNv0dII3-" version="21.7.2" type="github">
   <diagram name="Page-1" id="BLIdueBB5xflaGkCdT5f">
-    <mxGraphModel>
+    <mxGraphModel dx="2869" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="u4QKNgxA5Tayq-lkxQXP-2" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Jezdnia:&lt;br&gt;- bez przejścia dla pieszych&lt;br&gt;- bez progów zwalniających&lt;br&gt;- kierujący nagminnie przekraczają dozwoloną prędkość&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="820" width="880" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="u4QKNgxA5Tayq-lkxQXP-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="665" y="170" width="75" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="u4QKNgxA5Tayq-lkxQXP-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="665" y="520" width="75" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="u4QKNgxA5Tayq-lkxQXP-9" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;fillColor=#f8cecc;strokeColor=none;gradientColor=none;fillStyle=dots;" vertex="1" parent="1">
+          <mxGeometry x="-145.65" y="242.08" width="769.7" height="381.18" as="geometry" />
+        </mxCell>
+        <mxCell id="u4QKNgxA5Tayq-lkxQXP-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Parking&lt;br&gt;Strefa ruchu pojazdów&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="140" y="410" width="172.12" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="u4QKNgxA5Tayq-lkxQXP-1" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Przedszkole &lt;br&gt;Wodnik Szuwarek&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="425" y="220" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="u4QKNgxA5Tayq-lkxQXP-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="425" y="460" width="315" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u4QKNgxA5Tayq-lkxQXP-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="160" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u4QKNgxA5Tayq-lkxQXP-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="50" width="310" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="u4QKNgxA5Tayq-lkxQXP-15" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Teren Zielony&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="425" y="520" width="245" height="300" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
