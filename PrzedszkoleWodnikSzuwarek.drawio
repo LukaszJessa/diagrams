@@ -1,10 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-09-12T08:50:47.237Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="afZjj-MYcCIjNv0dII3-" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-12T09:13:06.395Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="S5_GAnJZ-60gVUNKkbVn" version="21.7.2" type="github">
   <diagram name="Page-1" id="BLIdueBB5xflaGkCdT5f">
     <mxGraphModel dx="2869" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="u4QKNgxA5Tayq-lkxQXP-2" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Jezdnia:&lt;br&gt;- bez przejścia dla pieszych&lt;br&gt;- bez progów zwalniających&lt;br&gt;- kierujący nagminnie przekraczają dozwoloną prędkość&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="u4QKNgxA5Tayq-lkxQXP-1" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Przedszkole &lt;br&gt;Wodnik Szuwarek&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="220" width="235" height="235" as="geometry" />
+        </mxCell>
+        <mxCell id="u4QKNgxA5Tayq-lkxQXP-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-30" y="820" width="880" height="190" as="geometry" />
         </mxCell>
         <mxCell id="u4QKNgxA5Tayq-lkxQXP-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=none;" vertex="1" parent="1">
@@ -17,13 +20,10 @@
           <mxGeometry x="-145.65" y="242.08" width="769.7" height="381.18" as="geometry" />
         </mxCell>
         <mxCell id="u4QKNgxA5Tayq-lkxQXP-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Parking&lt;br&gt;Strefa ruchu pojazdów&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fillStyle=auto;" vertex="1" parent="1">
-          <mxGeometry x="140" y="410" width="172.12" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="u4QKNgxA5Tayq-lkxQXP-1" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Przedszkole &lt;br&gt;Wodnik Szuwarek&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="425" y="220" width="240" height="240" as="geometry" />
+          <mxGeometry x="70" y="430" width="172.12" height="80" as="geometry" />
         </mxCell>
         <mxCell id="u4QKNgxA5Tayq-lkxQXP-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="425" y="460" width="315" height="60" as="geometry" />
+          <mxGeometry x="425" y="450" width="315" height="70" as="geometry" />
         </mxCell>
         <mxCell id="u4QKNgxA5Tayq-lkxQXP-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="430" y="160" width="310" height="60" as="geometry" />
@@ -33,6 +33,108 @@
         </mxCell>
         <mxCell id="u4QKNgxA5Tayq-lkxQXP-15" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Teren Zielony&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="425" y="520" width="245" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="u4QKNgxA5Tayq-lkxQXP-17" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=none;" edge="1" parent="1" target="u4QKNgxA5Tayq-lkxQXP-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="677.5" y="350" as="sourcePoint" />
+            <mxPoint x="727.5" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="705" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u4QKNgxA5Tayq-lkxQXP-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#e51400;strokeColor=none;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="490" as="sourcePoint" />
+            <mxPoint x="209.9988235294117" y="870" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u4QKNgxA5Tayq-lkxQXP-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="650" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u4QKNgxA5Tayq-lkxQXP-20" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="370" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u4QKNgxA5Tayq-lkxQXP-22" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="840" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u4QKNgxA5Tayq-lkxQXP-23" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="850" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u4QKNgxA5Tayq-lkxQXP-24" value="&lt;b&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;Jezdnia:&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;- bez przejścia dla pieszych&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;- bez progów zwalniających&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;- kierujący nagminnie przekraczają dozwoloną prędkość&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=none;fillStyle=auto;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="290" y="845" width="330" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="u4QKNgxA5Tayq-lkxQXP-25" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="u4QKNgxA5Tayq-lkxQXP-3" target="u4QKNgxA5Tayq-lkxQXP-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="150" as="sourcePoint" />
+            <mxPoint x="520" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u4QKNgxA5Tayq-lkxQXP-26" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="u4QKNgxA5Tayq-lkxQXP-14" target="u4QKNgxA5Tayq-lkxQXP-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="230" as="sourcePoint" />
+            <mxPoint x="440" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u4QKNgxA5Tayq-lkxQXP-27" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="u4QKNgxA5Tayq-lkxQXP-14" target="u4QKNgxA5Tayq-lkxQXP-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="60" as="sourcePoint" />
+            <mxPoint x="440" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u4QKNgxA5Tayq-lkxQXP-28" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;entryX=0.801;entryY=0.011;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="u4QKNgxA5Tayq-lkxQXP-15" target="u4QKNgxA5Tayq-lkxQXP-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="60" as="sourcePoint" />
+            <mxPoint x="750" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u4QKNgxA5Tayq-lkxQXP-29" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="u4QKNgxA5Tayq-lkxQXP-15" target="u4QKNgxA5Tayq-lkxQXP-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="530" as="sourcePoint" />
+            <mxPoint x="685" y="832" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u4QKNgxA5Tayq-lkxQXP-30" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="u4QKNgxA5Tayq-lkxQXP-15" target="u4QKNgxA5Tayq-lkxQXP-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="530" as="sourcePoint" />
+            <mxPoint x="435" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u4QKNgxA5Tayq-lkxQXP-31" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;entryX=0.799;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="u4QKNgxA5Tayq-lkxQXP-15" target="u4QKNgxA5Tayq-lkxQXP-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="435" y="830" as="sourcePoint" />
+            <mxPoint x="435" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u4QKNgxA5Tayq-lkxQXP-38" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;A&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="620" y="310" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u4QKNgxA5Tayq-lkxQXP-39" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;B&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="360" y="430" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u4QKNgxA5Tayq-lkxQXP-40" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;C&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="730" y="780" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u4QKNgxA5Tayq-lkxQXP-45" value="&lt;b&gt;Problem: d&lt;/b&gt;rzwi do szatni. Od wewnątrz klamka - każdy może opuścić budynek Przedszkola.&lt;br&gt;&lt;b&gt;Rozwiązanie:&lt;/b&gt; od wewnątrz na wysokości dorosłego włącznik dzwonkowy zwalniający elektrozaczep." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="20" y="50" width="390" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="u4QKNgxA5Tayq-lkxQXP-42" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;A&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="60" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u4QKNgxA5Tayq-lkxQXP-46" value="&lt;b&gt;Problem: &lt;/b&gt;brak ciągłości ogrodzenia. Teren parkingu i wyjścia na jezdnię jest bez jakiejkolwiek przeszkody skomunikowany z wyjściem z budynku Przedszkola.&amp;nbsp;&lt;br&gt;&lt;b&gt;Rozwiązanie:&lt;/b&gt; montaż brakującego ogrodzenia wraz z furtką, z samodomykaczem i otwieraną przyciskiem dzwonkowym zwalniającym elektrozaczep." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="20" y="140" width="390" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="u4QKNgxA5Tayq-lkxQXP-47" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;B&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="170" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u4QKNgxA5Tayq-lkxQXP-48" value="&lt;b&gt;Problem: &lt;/b&gt;furtka otwierana klamką od wewnątrz. Bez samodomykacza i elektrozaczepu.&amp;nbsp;&lt;br&gt;&lt;b&gt;Rozwiązanie:&lt;/b&gt; montaż samodomykacza oraz elektrozaczepu. Konieczność otwierania&amp;nbsp; przyciskiem dzwonkowym zwalniającym elektrozaczep.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="20" y="270" width="390" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="u4QKNgxA5Tayq-lkxQXP-49" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;C&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="285" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
