@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2023-11-16T15:32:20.604Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69" etag="QyXK1bC1xOn8RmNoDiEK" version="22.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-16T15:42:11.522Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69" etag="w83kOCvDE_fADuFTGhPf" version="22.1.1" type="github" pages="3">
   <diagram name="US Customer EDI Orders" id="ITsrPc8U3nd3HmOz6KBZ">
-    <mxGraphModel dx="1653" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1968" dy="1058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JtWlEISLe5lI5274EbQN-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="200" y="640" width="360" height="191" as="geometry" />
+          <mxGeometry x="296" y="640" width="360" height="191" as="geometry" />
         </mxCell>
         <mxCell id="JtWlEISLe5lI5274EbQN-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="310" as="sourcePoint" />
-            <mxPoint x="560" y="310" as="targetPoint" />
+            <mxPoint x="436" y="310" as="sourcePoint" />
+            <mxPoint x="656" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JtWlEISLe5lI5274EbQN-4" value="Get GUID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JtWlEISLe5lI5274EbQN-3">
@@ -20,8 +20,8 @@
         </mxCell>
         <mxCell id="JtWlEISLe5lI5274EbQN-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="350" as="sourcePoint" />
-            <mxPoint x="340" y="350" as="targetPoint" />
+            <mxPoint x="656" y="350" as="sourcePoint" />
+            <mxPoint x="436" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JtWlEISLe5lI5274EbQN-9" value="Send GUID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JtWlEISLe5lI5274EbQN-8">
@@ -31,8 +31,8 @@
         </mxCell>
         <mxCell id="JtWlEISLe5lI5274EbQN-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="430" as="sourcePoint" />
-            <mxPoint x="560" y="430" as="targetPoint" />
+            <mxPoint x="436" y="430" as="sourcePoint" />
+            <mxPoint x="656" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JtWlEISLe5lI5274EbQN-11" value="Create Sales Order" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JtWlEISLe5lI5274EbQN-10">
@@ -42,8 +42,8 @@
         </mxCell>
         <mxCell id="JtWlEISLe5lI5274EbQN-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="480" as="sourcePoint" />
-            <mxPoint x="340" y="480" as="targetPoint" />
+            <mxPoint x="656" y="480" as="sourcePoint" />
+            <mxPoint x="436" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JtWlEISLe5lI5274EbQN-13" value="Update sales order no." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JtWlEISLe5lI5274EbQN-12">
@@ -53,8 +53,8 @@
         </mxCell>
         <mxCell id="JtWlEISLe5lI5274EbQN-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="554" as="sourcePoint" />
-            <mxPoint x="340" y="554" as="targetPoint" />
+            <mxPoint x="656" y="554" as="sourcePoint" />
+            <mxPoint x="436" y="554" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JtWlEISLe5lI5274EbQN-15" value="Send order confirmation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JtWlEISLe5lI5274EbQN-14">
@@ -63,30 +63,30 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JtWlEISLe5lI5274EbQN-16" value="Create GUID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="666" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JtWlEISLe5lI5274EbQN-17" value="Sales order" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="420" width="120" height="170" as="geometry" />
+          <mxGeometry x="666" y="420" width="120" height="170" as="geometry" />
         </mxCell>
         <mxCell id="JtWlEISLe5lI5274EbQN-22" value="New EDI order received" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="300" width="120" height="140" as="geometry" />
+          <mxGeometry x="306" y="300" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="JtWlEISLe5lI5274EbQN-23" value="Creates and send 855&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="524" width="120" height="60" as="geometry" />
+          <mxGeometry x="306" y="524" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JtWlEISLe5lI5274EbQN-24" value="Altova" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="230" y="220" width="60" height="30" as="geometry" />
+          <mxGeometry x="326" y="220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JtWlEISLe5lI5274EbQN-25" value="Business Central" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="600" y="220" width="60" height="30" as="geometry" />
+          <mxGeometry x="696" y="220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JtWlEISLe5lI5274EbQN-26" value="Monitors ECM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="306" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JtWlEISLe5lI5274EbQN-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="711" as="sourcePoint" />
-            <mxPoint x="340" y="711" as="targetPoint" />
+            <mxPoint x="656" y="711" as="sourcePoint" />
+            <mxPoint x="436" y="711" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JtWlEISLe5lI5274EbQN-28" value="Send 3PL warehouse shipping order" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JtWlEISLe5lI5274EbQN-27">
@@ -95,18 +95,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JtWlEISLe5lI5274EbQN-29" value="Creates and send 940" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="681" width="120" height="60" as="geometry" />
+          <mxGeometry x="306" y="681" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JtWlEISLe5lI5274EbQN-31" value="3PL Ship Confirm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="761" width="120" height="60" as="geometry" />
+          <mxGeometry x="306" y="761" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JtWlEISLe5lI5274EbQN-32" value="Posted Shipment &amp;amp; Invoice" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="747" width="120" height="220" as="geometry" />
+          <mxGeometry x="666" y="747" width="120" height="220" as="geometry" />
         </mxCell>
         <mxCell id="JtWlEISLe5lI5274EbQN-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="790.71" as="sourcePoint" />
-            <mxPoint x="560" y="790.71" as="targetPoint" />
+            <mxPoint x="436" y="790.71" as="sourcePoint" />
+            <mxPoint x="656" y="790.71" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JtWlEISLe5lI5274EbQN-34" value="Confirm Pick" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JtWlEISLe5lI5274EbQN-33">
@@ -116,8 +116,8 @@
         </mxCell>
         <mxCell id="JtWlEISLe5lI5274EbQN-37" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="871" as="sourcePoint" />
-            <mxPoint x="340" y="871" as="targetPoint" />
+            <mxPoint x="656" y="871" as="sourcePoint" />
+            <mxPoint x="436" y="871" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JtWlEISLe5lI5274EbQN-38" value="Send shipment notification" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JtWlEISLe5lI5274EbQN-37">
@@ -127,8 +127,8 @@
         </mxCell>
         <mxCell id="JtWlEISLe5lI5274EbQN-39" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="945" as="sourcePoint" />
-            <mxPoint x="340" y="945" as="targetPoint" />
+            <mxPoint x="656" y="945" as="sourcePoint" />
+            <mxPoint x="436" y="945" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JtWlEISLe5lI5274EbQN-40" value="Send invoice" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JtWlEISLe5lI5274EbQN-39">
@@ -137,37 +137,40 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JtWlEISLe5lI5274EbQN-41" value="Creates and send 856" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="841" width="120" height="60" as="geometry" />
+          <mxGeometry x="306" y="841" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JtWlEISLe5lI5274EbQN-42" value="Creates and send 810" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="911" width="120" height="60" as="geometry" />
+          <mxGeometry x="306" y="911" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JtWlEISLe5lI5274EbQN-44" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;US Customer&lt;br&gt;EDI Orders&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="50" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="JtWlEISLe5lI5274EbQN-46" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Optional&amp;nbsp;n/a for small package shipments&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="640" width="170" height="30" as="geometry" />
+          <mxGeometry x="396" y="640" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ysi4O1orVl3FF7e3FOh5-1" value="Warehouse Shipment&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="666" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JtWlEISLe5lI5274EbQN-30" value="Warehouse Pick" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="671" width="120" height="60" as="geometry" />
+          <mxGeometry x="666" y="671" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZG3aNjdZ2eVm0SgU-1Df-2" value="SFTP or VAN" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="514" width="120" height="80" as="geometry" />
+        <mxCell id="es8-3B2_wmlt3I2sRudW-1" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="150" y="611" as="sourcePoint" />
+            <mxPoint x="230" y="841" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="ZG3aNjdZ2eVm0SgU-1Df-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.197;entryY=0.863;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JtWlEISLe5lI5274EbQN-42" target="ZG3aNjdZ2eVm0SgU-1Df-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="es8-3B2_wmlt3I2sRudW-2" value="Trading Partner" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="100" y="220" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZG3aNjdZ2eVm0SgU-1Df-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.453;entryY=0.971;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JtWlEISLe5lI5274EbQN-41" target="ZG3aNjdZ2eVm0SgU-1Df-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="es8-3B2_wmlt3I2sRudW-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;SFTP or VAN&lt;/font&gt;&lt;/b&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="480" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ZG3aNjdZ2eVm0SgU-1Df-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.664;entryY=0.963;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JtWlEISLe5lI5274EbQN-29" target="ZG3aNjdZ2eVm0SgU-1Df-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZG3aNjdZ2eVm0SgU-1Df-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.875;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JtWlEISLe5lI5274EbQN-23" target="ZG3aNjdZ2eVm0SgU-1Df-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="es8-3B2_wmlt3I2sRudW-6" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="250" y="380" as="sourcePoint" />
+            <mxPoint x="140" y="470" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
