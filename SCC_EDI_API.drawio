@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-16T15:24:17.885Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69" etag="Y6iod-XvmhYsQk3_8h_1" version="22.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-16T15:32:20.604Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69" etag="QyXK1bC1xOn8RmNoDiEK" version="22.1.1" type="github" pages="3">
   <diagram name="US Customer EDI Orders" id="ITsrPc8U3nd3HmOz6KBZ">
     <mxGraphModel dx="1653" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -225,9 +225,6 @@
         </mxCell>
         <mxCell id="fH2inK8ofbZoNW9_J7KG-31" value="Optional&amp;nbsp;&lt;br&gt;n/a for small package shipments" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="350" width="90" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="chedrDttZ11qbUH9Nfrh-1" value="Order is Tracked step??" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="190" y="385" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
